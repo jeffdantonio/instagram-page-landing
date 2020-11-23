@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./public/image/instagram-logo.png" alt="Logomarca instagram"/>
+    <img src="./public/images/instagram-logo.png" alt="Logomarca instagram"/>
     <p>Instagram</p>
     <img src="https://img.shields.io/badge/-HTML-orange" alt="badge HTML"/>
     <img src="https://img.shields.io/badge/-CSS-blue" alt="badge CSS"/>
@@ -12,7 +12,7 @@ O projeto consiste em refazer a landing-page do instagram para fixar os conceito
 
 
 ## Layouts
-<img src="./public/image/tela.PNG" alt="Tela app"/>
+<img src="./public/images/tela.PNG" alt="Tela app"/>
 
 ## 🛠 Tecnologias
 
